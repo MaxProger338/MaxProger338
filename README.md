@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate in creating various interesting projects
 - 📫 To reach me you can just ping me on [Discord](https://discord.gg/JeJwcXXk) :3
 - 😄 Pronouns: he / him / @Fazber338 / megaIno338 / MaxProger338
-- ⚡ Fun fact: I already have 16 repos!
+- ⚡ Fun fact: I already have 18 repos!
