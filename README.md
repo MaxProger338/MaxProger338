@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxProger338
+# 👋 Hi, I’m @MaxProger338
 - 👀 I’m interested in System Programming | Backend
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate in creating various interesting projects
