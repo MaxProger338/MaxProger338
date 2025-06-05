@@ -8,6 +8,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MaxProger338&color=brightgreen" alt="MaxProger338"/></p>
 
+<!-- THANK YOU, LEO! -->
+
 # 👋 About:
 - 🔭 I’m currently working on self-edu<br>
 - 👯 I’m looking to collaborate in creating various interesting projects<br>
