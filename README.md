@@ -24,7 +24,7 @@
 
 # 📊 Graphics
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxProger338&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxProger338&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 🔥 GitHub Stats:
 <br>
