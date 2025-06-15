@@ -23,9 +23,9 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaxProger338&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxProger338&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=MaxProger338&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MaxProger338&theme=blue-green&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxProger338&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MaxProger338&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
