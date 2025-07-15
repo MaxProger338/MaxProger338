@@ -1,8 +1,3 @@
-<p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=F7B316&center=true&width=450&height=60&lines=Welcome%2C+stranger!" alt="Welcome, stranger!" />
-</a>
-
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vim,vscode,arch,bash,github,git,obsidian&perline=5" />
