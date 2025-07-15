@@ -6,7 +6,6 @@
 
 <details>
 <summary>📃 <b>Tech stack</b></summary>
-# 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vim,vscode,arch,bash,github,git,obsidian&perline=5" />
 </p>
