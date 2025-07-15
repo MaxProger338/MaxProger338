@@ -3,3 +3,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxProger338&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxProger338&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+<summary>📃 <b>Tech stack</b></summary>
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vim,vscode,arch,bash,github,git,obsidian&perline=5" />
+</p>
+</details>
+
