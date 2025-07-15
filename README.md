@@ -1,8 +1,3 @@
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vim,vscode,arch,bash,github,git,obsidian&perline=5" />
-</p>
-
 # 📊 Graphics
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxProger338&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
