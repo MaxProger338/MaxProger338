@@ -5,12 +5,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MaxProger338&color=brightgreen" alt="MaxProger338"/></p>
 
-# 👋 About:
-- 🔭 I’m currently working on self-edu<br>
-- 👯 I’m looking to collaborate in creating various interesting projects<br>
-- 🤝 I’m looking for help with code review and participation in cool projects<br>
-- 🌱 I’m currently learning CS on Pascal<br>
-
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vim,vscode,arch,bash,github,git,obsidian&perline=5" />
